@@ -2,3 +2,8 @@
 
 ## Description
 This project is ...
+
+## Contributors
+Toshiki
+Iris
+Nitarou
