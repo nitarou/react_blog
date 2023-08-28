@@ -4,6 +4,6 @@
 This project is ...
 
 ## Contributors
-Toshiki
-Iris
-Nitarou
+- Toshiki
+- Iris
+- Nitarou
