@@ -1,0 +1,25 @@
+header {
+  background-color: lightgray;
+}
+
+nav {
+  display: flex;
+}
+
+.tab {
+  flex-grow: 1;
+  /* flex-basis: calc(100% / 3); */
+  position: relative;
+  text-align: center;
+}
+
+.tab:hover .dropdown {
+  display: block;
+  background-color: lightgray;
+  position: absolute;
+  width: 100%;
+}
+
+.dropdown {
+  display: none;
+}
